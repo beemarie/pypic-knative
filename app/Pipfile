@@ -10,7 +10,6 @@ pillow = "*"
 flask = "*"
 flask-cors = "*"
 numpy = "*"
-os = "*"
 
 [requires]
 python_version = "3.6"
