@@ -1,8 +1,7 @@
 from python:3
 
+COPY ./app /app
 WORKDIR /app
-
-COPY ./app
 
 RUN pip install pipenv
 
